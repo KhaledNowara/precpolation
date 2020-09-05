@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry excluding=".idea/fileTemplates/internal/" kind="src" path=""/>
 	<classpathentry kind="src" path=".idea/fileTemplates/internal"/>
+	<classpathentry kind="lib" path="E:/CODES/precpolationGIT/percolation/algs4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
